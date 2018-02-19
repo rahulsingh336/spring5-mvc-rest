@@ -8,7 +8,7 @@ import rs.springfamework.api.v1.model.CategoryDTO;
 import rs.springfamework.domain.Category;
 
 /**
- * Created by e076103 on 2/9/2018.
+ * Created by rs on 2/9/2018.
  */
 @Mapper
 public interface CategoryMapper {
