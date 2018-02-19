@@ -23,7 +23,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 /**
- * Created by E076103 on 2/19/2018.
+ * Created by rs on 2/19/2018.
  */
 public class CategoryControllerTest {
 

@@ -7,7 +7,7 @@ import rs.springfamework.domain.Category;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by e076103 on 2/9/2018.
+ * Created by rs on 2/9/2018.
  */
 public class CategoryMapperTest {
 
