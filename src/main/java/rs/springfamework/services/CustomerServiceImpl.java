@@ -2,6 +2,7 @@ package rs.springfamework.services;
 
 import rs.springfamework.api.v1.mapper.CustomerMapper;
 import rs.springfamework.api.v1.model.CustomerDTO;
+import rs.springfamework.domain.Customer;
 import rs.springfamework.repositories.CustomerRepository;
 
 import java.util.List;
