@@ -85,7 +85,7 @@ public class CustomerServiceImpl implements CustomerService{
 
             return returnDto;
 
-        }).orElseThrow(RuntimeException::new); //todo implement better exception handling;
+        }).orElseThrow(ResourceNotFoundException::new); //todo implement better exception handling;
     }
 
     @Override
